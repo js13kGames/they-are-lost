@@ -1,0 +1,5 @@
+---
+# See github.com/js13kGames/hello-world for supported frontmatter
+---
+
+10-minute micro space exploration/base-building/clicker mash up. Build 100 ships to help the scattered denizens of your empire return to the stars. Dev stats: 9-ish hours, 7.7kb compressed
